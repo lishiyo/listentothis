@@ -1,0 +1,2631 @@
+[
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "comforterband.bandcamp.com",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fbandcamp.com%2FEmbeddedPlayer%2Fv%3D2%2Ftrack%3D1907558472%2Fsize%3Dlarge%2Flinkcol%3D0084B4%2Fnotracklist%3Dtrue%2Ftwittercard%3Dtrue%2F&amp;url=http%3A%2F%2Fcomforterband.bandcamp.com%2Ftrack%2Fcop-2&amp;image=http%3A%2F%2Ff1.bcbits.com%2Fimg%2Fa1813492684_5.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=bandcamp\" width=\"350\" height=\"467\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 350,
+        "scrolling": false,
+        "height": 467
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "oembed": {
+          "provider_url": "http://bandcamp.com",
+          "description": "COP by Comforter, released 26 June 2015",
+          "title": "COP, by Comforter",
+          "type": "rich",
+          "thumbnail_width": 350,
+          "height": 467,
+          "width": 350,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fbandcamp.com%2FEmbeddedPlayer%2Fv%3D2%2Ftrack%3D1907558472%2Fsize%3Dlarge%2Flinkcol%3D0084B4%2Fnotracklist%3Dtrue%2Ftwittercard%3Dtrue%2F&amp;url=http%3A%2F%2Fcomforterband.bandcamp.com%2Ftrack%2Fcop-2&amp;image=http%3A%2F%2Ff1.bcbits.com%2Fimg%2Fa1813492684_5.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=bandcamp\" width=\"350\" height=\"467\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "version": "1.0",
+          "provider_name": "BandCamp",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Ff1.bcbits.com%2Fimg%2Fa1813492684_2.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "thumbnail_height": 350
+        },
+        "type": "comforterband.bandcamp.com"
+      },
+      "link_flair_text": "Pop",
+      "id": "3ybh3d",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "billythenick",
+      "media": {
+        "oembed": {
+          "provider_url": "http://bandcamp.com",
+          "description": "COP by Comforter, released 26 June 2015",
+          "title": "COP, by Comforter",
+          "type": "rich",
+          "thumbnail_width": 350,
+          "height": 467,
+          "width": 350,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fbandcamp.com%2FEmbeddedPlayer%2Fv%3D2%2Ftrack%3D1907558472%2Fsize%3Dlarge%2Flinkcol%3D0084B4%2Fnotracklist%3Dtrue%2Ftwittercard%3Dtrue%2F&amp;url=http%3A%2F%2Fcomforterband.bandcamp.com%2Ftrack%2Fcop-2&amp;image=http%3A%2F%2Ff1.bcbits.com%2Fimg%2Fa1813492684_5.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=bandcamp\" width=\"350\" height=\"467\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "version": "1.0",
+          "provider_name": "BandCamp",
+          "thumbnail_url": "https://f1.bcbits.com/img/a1813492684_2.jpg",
+          "thumbnail_height": 350
+        },
+        "type": "comforterband.bandcamp.com"
+      },
+      "score": 145,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/mRyU9dIgs53Ow8z0-rIJpzjz35hxTmqMvAJ5iZPnOVo.jpg?s=c2ce101a5f833115121d7a623dd9726f",
+              "width": 350,
+              "height": 350
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/mRyU9dIgs53Ow8z0-rIJpzjz35hxTmqMvAJ5iZPnOVo.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=2011f1cd4a0240d776eb3a65266941f7",
+                "width": 108,
+                "height": 108
+              },
+              {
+                "url": "https://i.redditmedia.com/mRyU9dIgs53Ow8z0-rIJpzjz35hxTmqMvAJ5iZPnOVo.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=2c60b39c3a830b432eddd0ce4cedcb65",
+                "width": 216,
+                "height": 216
+              },
+              {
+                "url": "https://i.redditmedia.com/mRyU9dIgs53Ow8z0-rIJpzjz35hxTmqMvAJ5iZPnOVo.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=f8e4e624dc98c69d368603e0b06ee310",
+                "width": 320,
+                "height": 320
+              }
+            ],
+            "variants": {},
+            "id": "XIx6vxkROfmTAPJX4aFRXr2Xt2FDxDEx3_C8D6UVC5c"
+          }
+        ]
+      },
+      "num_comments": 12,
+      "thumbnail": "http://a.thumbs.redditmedia.com/LNeGXp9j5pO7Tz26LBSxrJfb-fGe9axFXtYIAwQslC0.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "pop",
+      "author_flair_css_class": null,
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fbandcamp.com%2FEmbeddedPlayer%2Fv%3D2%2Ftrack%3D1907558472%2Fsize%3Dlarge%2Flinkcol%3D0084B4%2Fnotracklist%3Dtrue%2Ftwittercard%3Dtrue%2F&amp;url=http%3A%2F%2Fcomforterband.bandcamp.com%2Ftrack%2Fcop-2&amp;image=http%3A%2F%2Ff1.bcbits.com%2Fimg%2Fa1813492684_5.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=bandcamp\" width=\"350\" height=\"467\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 350,
+        "scrolling": false,
+        "height": 467
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "link",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3ybh3d/comforter_cop_poprock_thought_this_belonged_here/",
+      "locked": false,
+      "name": "t3_3ybh3d",
+      "created": 1451189177,
+      "url": "http://comforterband.bandcamp.com/track/cop-2",
+      "author_flair_text": null,
+      "quarantine": false,
+      "title": "Comforter - Cop [pop/rock] (Thought this belonged here too it was just on r/videos)",
+      "created_utc": 1451160377,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 145
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "soundcloud.com",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F122860981%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fthisisohmy%2Fpeople&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000064240441-y9cajh-t500x500.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=soundcloud\" width=\"500\" height=\"500\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 500,
+        "scrolling": false,
+        "height": 500
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "oembed": {
+          "provider_url": "http://soundcloud.com",
+          "description": "Second single off the debut album \"Slow moves\" out the 5th of February, 2014",
+          "title": "People by OH MY!",
+          "type": "rich",
+          "thumbnail_width": 500,
+          "height": 500,
+          "width": 500,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F122860981%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fthisisohmy%2Fpeople&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000064240441-y9cajh-t500x500.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=soundcloud\" width=\"500\" height=\"500\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "author_name": "OH MY!",
+          "version": "1.0",
+          "provider_name": "SoundCloud",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000064240441-y9cajh-t500x500.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "thumbnail_height": 500,
+          "author_url": "http://soundcloud.com/thisisohmy"
+        },
+        "type": "soundcloud.com"
+      },
+      "link_flair_text": "Rock",
+      "id": "3yat48",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "Perfectshadow12345",
+      "media": {
+        "oembed": {
+          "provider_url": "http://soundcloud.com",
+          "description": "Second single off the debut album \"Slow moves\" out the 5th of February, 2014",
+          "title": "People by OH MY!",
+          "type": "rich",
+          "thumbnail_width": 500,
+          "height": 500,
+          "width": 500,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F122860981%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fthisisohmy%2Fpeople&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000064240441-y9cajh-t500x500.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=soundcloud\" width=\"500\" height=\"500\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "author_name": "OH MY!",
+          "version": "1.0",
+          "provider_name": "SoundCloud",
+          "thumbnail_url": "http://i1.sndcdn.com/artworks-000064240441-y9cajh-t500x500.jpg",
+          "thumbnail_height": 500,
+          "author_url": "http://soundcloud.com/thisisohmy"
+        },
+        "type": "soundcloud.com"
+      },
+      "score": 94,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/mowrW53jNgZygJL4DTeZOl-Zom4v2V8c6erHjVn3ZsE.jpg?s=d7c3228604084712a467a98e9817132e",
+              "width": 500,
+              "height": 500
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/mowrW53jNgZygJL4DTeZOl-Zom4v2V8c6erHjVn3ZsE.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=730944f15b18d31171d7a797bf307fa0",
+                "width": 108,
+                "height": 108
+              },
+              {
+                "url": "https://i.redditmedia.com/mowrW53jNgZygJL4DTeZOl-Zom4v2V8c6erHjVn3ZsE.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=c160d7af1aaf6b093ca2c5f95a363837",
+                "width": 216,
+                "height": 216
+              },
+              {
+                "url": "https://i.redditmedia.com/mowrW53jNgZygJL4DTeZOl-Zom4v2V8c6erHjVn3ZsE.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=94dc47eb901d8480b30c9e392879dea4",
+                "width": 320,
+                "height": 320
+              }
+            ],
+            "variants": {},
+            "id": "W-81H3sW4TzqFegzFPkYMx_8c6G6k1ZEl0gElSOSZQU"
+          }
+        ]
+      },
+      "num_comments": 7,
+      "thumbnail": "http://b.thumbs.redditmedia.com/DvPxaiLDMK95aREQOi7NA1rsJK3-lyXLXpD_76fN-Sg.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "rock",
+      "author_flair_css_class": "youtube",
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F122860981%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fthisisohmy%2Fpeople&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000064240441-y9cajh-t500x500.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=soundcloud\" width=\"500\" height=\"500\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 500,
+        "scrolling": false,
+        "height": 500
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "link",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3yat48/oh_my_people_indie_rock_2015/",
+      "locked": false,
+      "name": "t3_3yat48",
+      "created": 1451177584,
+      "url": "https://soundcloud.com/thisisohmy/people",
+      "author_flair_text": "youtube",
+      "quarantine": false,
+      "title": "OH MY - People [Indie Rock] (2015)",
+      "created_utc": 1451148784,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 94
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "youtube.com",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FisaHW7733bc%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DisaHW7733bc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FisaHW7733bc%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Band - Reflections Song - Autumnus Album - The Color Clear Label - eOne / Good Fight Reflections is a Metal/Progressive/Experimental band from Twin Cities, Minnesota. For Promotional Purposes only. Check them out on Facebook: http://www.facebook.com/reflectionsmn Please support the band by buying their records/going to their gigs/buying their merch.",
+          "title": "Reflections - Autumnus | The Color Clear NEW ALBUM 2015",
+          "url": "http://www.youtube.com/watch?v=isaHW7733bc",
+          "type": "video",
+          "author_name": "BadSurprise1",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FisaHW7733bc%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DisaHW7733bc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FisaHW7733bc%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FisaHW7733bc%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/BadSurprise1"
+        },
+        "type": "youtube.com"
+      },
+      "link_flair_text": "Heavy",
+      "id": "3yatbp",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "iceharvester",
+      "media": {
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Band - Reflections Song - Autumnus Album - The Color Clear Label - eOne / Good Fight Reflections is a Metal/Progressive/Experimental band from Twin Cities, Minnesota. For Promotional Purposes only. Check them out on Facebook: http://www.facebook.com/reflectionsmn Please support the band by buying their records/going to their gigs/buying their merch.",
+          "title": "Reflections - Autumnus | The Color Clear NEW ALBUM 2015",
+          "url": "http://www.youtube.com/watch?v=isaHW7733bc",
+          "type": "video",
+          "author_name": "BadSurprise1",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FisaHW7733bc%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DisaHW7733bc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FisaHW7733bc%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.ytimg.com/vi/isaHW7733bc/hqdefault.jpg",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/BadSurprise1"
+        },
+        "type": "youtube.com"
+      },
+      "score": 68,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/L5_f5LT8Tnnwn4_OVswUYK9ZWTI1_6GmWTBjGO-VW7E.jpg?s=e879ffe6aaf21a5509d17a4894b31278",
+              "width": 480,
+              "height": 360
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/L5_f5LT8Tnnwn4_OVswUYK9ZWTI1_6GmWTBjGO-VW7E.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=7fcd3a750b07c5c03ad6ad4550b84e90",
+                "width": 108,
+                "height": 81
+              },
+              {
+                "url": "https://i.redditmedia.com/L5_f5LT8Tnnwn4_OVswUYK9ZWTI1_6GmWTBjGO-VW7E.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=24d16d1968ff468cbcecf69e0615cee4",
+                "width": 216,
+                "height": 162
+              },
+              {
+                "url": "https://i.redditmedia.com/L5_f5LT8Tnnwn4_OVswUYK9ZWTI1_6GmWTBjGO-VW7E.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=46f059f06e8c7e8e1354bcf0caca1abe",
+                "width": 320,
+                "height": 240
+              }
+            ],
+            "variants": {},
+            "id": "uG-iD7Tb686qWg88NiF_1zaoPYYJLMPoQ-jHiAovOhw"
+          }
+        ]
+      },
+      "num_comments": 14,
+      "thumbnail": "http://b.thumbs.redditmedia.com/xns3a-kL3jPhZzKaSYgnYvs3XylVcjKDQNbb6aL44RM.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "heavy",
+      "author_flair_css_class": null,
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FisaHW7733bc%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DisaHW7733bc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FisaHW7733bc%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "rich:video",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3yatbp/reflections_autumnus_metal_metalcore_hardcore_2015/",
+      "locked": false,
+      "name": "t3_3yatbp",
+      "created": 1451177696,
+      "url": "https://www.youtube.com/watch?v=isaHW7733bc",
+      "author_flair_text": null,
+      "quarantine": false,
+      "title": "Reflections - Autumnus [Metal / Metalcore / Hardcore] (2015)",
+      "created_utc": 1451148896,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 68
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "youtube.com",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FcDwUGXmyB4k%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcDwUGXmyB4k&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcDwUGXmyB4k%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 338
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "From The Suite(스윗) 1st EP [The Sweetest Thing] https://itunes.apple.com/us/album/the-sweetest-thing-ep/id932714845",
+          "title": "스윗 (The Suite) - 취해 (Addicted)",
+          "url": "http://www.youtube.com/watch?v=cDwUGXmyB4k",
+          "type": "video",
+          "author_name": "danielionss",
+          "height": 338,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FcDwUGXmyB4k%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcDwUGXmyB4k&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcDwUGXmyB4k%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcDwUGXmyB4k%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/danielionss"
+        },
+        "type": "youtube.com"
+      },
+      "link_flair_text": "Funk Soul R&amp;B",
+      "id": "3yb79w",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "Abhishrekt",
+      "media": {
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "From The Suite(스윗) 1st EP [The Sweetest Thing] https://itunes.apple.com/us/album/the-sweetest-thing-ep/id932714845",
+          "title": "스윗 (The Suite) - 취해 (Addicted)",
+          "url": "http://www.youtube.com/watch?v=cDwUGXmyB4k",
+          "type": "video",
+          "author_name": "danielionss",
+          "height": 338,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FcDwUGXmyB4k%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcDwUGXmyB4k&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcDwUGXmyB4k%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.ytimg.com/vi/cDwUGXmyB4k/hqdefault.jpg",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/danielionss"
+        },
+        "type": "youtube.com"
+      },
+      "score": 32,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/62OwbafvfOG8-y5P1X7bLpZFL64YMSc3S6EmOCvkBKo.jpg?s=3fbd1a575c2de8f088600d9511b518f5",
+              "width": 480,
+              "height": 360
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/62OwbafvfOG8-y5P1X7bLpZFL64YMSc3S6EmOCvkBKo.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=adea2831358366584c1b7272a81b7ac0",
+                "width": 108,
+                "height": 81
+              },
+              {
+                "url": "https://i.redditmedia.com/62OwbafvfOG8-y5P1X7bLpZFL64YMSc3S6EmOCvkBKo.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=783e3f9b3deece91a12b23c8b4d7be75",
+                "width": 216,
+                "height": 162
+              },
+              {
+                "url": "https://i.redditmedia.com/62OwbafvfOG8-y5P1X7bLpZFL64YMSc3S6EmOCvkBKo.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=12e4325c4b7efc88308d997d363ae7ff",
+                "width": 320,
+                "height": 240
+              }
+            ],
+            "variants": {},
+            "id": "dLiR_Mn87egCqqnL1bgqnuuPZfELSHkBVaJ6plYuhNA"
+          }
+        ]
+      },
+      "num_comments": 1,
+      "thumbnail": "http://b.thumbs.redditmedia.com/1GBetY8r_3_gT8ZjGU8g0VC8q8XZIOf6VNrIoEZ_01U.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "funksoulrnb",
+      "author_flair_css_class": null,
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FcDwUGXmyB4k%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcDwUGXmyB4k&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcDwUGXmyB4k%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 338
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "rich:video",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3yb79w/스윗_the_suite_취해_addicted_rb_2014/",
+      "locked": false,
+      "name": "t3_3yb79w",
+      "created": 1451184475,
+      "url": "https://www.youtube.com/watch?v=cDwUGXmyB4k",
+      "author_flair_text": null,
+      "quarantine": false,
+      "title": "스윗 (The Suite) - 취해 (Addicted) [R&amp;B] (2014)",
+      "created_utc": 1451155675,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 32
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "youtube.com",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FSOxYBHg7QQk%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSOxYBHg7QQk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSOxYBHg7QQk%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 338
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Namae (Name) by amazarashi I do not own anything, except the finalised video. Kekeke... Enjoy! ^^ I chewed on this song for a long time... I really enjoy amazarashi's works because a lot of their lyrics are very meaningful.",
+          "title": "Namae - amazarashi (Eng Sub + Romaji)",
+          "url": "http://www.youtube.com/watch?v=SOxYBHg7QQk",
+          "type": "video",
+          "author_name": "Hyopi",
+          "height": 338,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FSOxYBHg7QQk%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSOxYBHg7QQk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSOxYBHg7QQk%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSOxYBHg7QQk%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/channel/UC06b22_2IoglpnldxIL14IQ"
+        },
+        "type": "youtube.com"
+      },
+      "link_flair_text": "Rock",
+      "id": "3yb16y",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "asifmallik",
+      "media": {
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Namae (Name) by amazarashi I do not own anything, except the finalised video. Kekeke... Enjoy! ^^ I chewed on this song for a long time... I really enjoy amazarashi's works because a lot of their lyrics are very meaningful.",
+          "title": "Namae - amazarashi (Eng Sub + Romaji)",
+          "url": "http://www.youtube.com/watch?v=SOxYBHg7QQk",
+          "type": "video",
+          "author_name": "Hyopi",
+          "height": 338,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FSOxYBHg7QQk%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSOxYBHg7QQk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSOxYBHg7QQk%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.ytimg.com/vi/SOxYBHg7QQk/hqdefault.jpg",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/channel/UC06b22_2IoglpnldxIL14IQ"
+        },
+        "type": "youtube.com"
+      },
+      "score": 33,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/V69Wahx95vLRQ-Rl5jIRT77lK_6kArhRU6aYKeMe39o.jpg?s=02e7c053c9c7576c0c80da09c1528801",
+              "width": 480,
+              "height": 360
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/V69Wahx95vLRQ-Rl5jIRT77lK_6kArhRU6aYKeMe39o.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=a1bff049a0aec9beba6da915371ee351",
+                "width": 108,
+                "height": 81
+              },
+              {
+                "url": "https://i.redditmedia.com/V69Wahx95vLRQ-Rl5jIRT77lK_6kArhRU6aYKeMe39o.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=9d57a5c50f1daca0976782c3b1c44aea",
+                "width": 216,
+                "height": 162
+              },
+              {
+                "url": "https://i.redditmedia.com/V69Wahx95vLRQ-Rl5jIRT77lK_6kArhRU6aYKeMe39o.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=72c814c7d627f10df158192d23cb9d1a",
+                "width": 320,
+                "height": 240
+              }
+            ],
+            "variants": {},
+            "id": "lqqnFc_cfCYp88kge-maqos1DurpOFla8m94rwXNOxc"
+          }
+        ]
+      },
+      "num_comments": 3,
+      "thumbnail": "http://a.thumbs.redditmedia.com/K9Z__UQC8GNytrxpBZMBBCinx0zTjWY70uYeAsSwet4.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "rock",
+      "author_flair_css_class": null,
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FSOxYBHg7QQk%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSOxYBHg7QQk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSOxYBHg7QQk%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 338
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "rich:video",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3yb16y/namae_amazarashi_alternative_rock_japanese_music/",
+      "locked": false,
+      "name": "t3_3yb16y",
+      "created": 1451181626,
+      "url": "https://www.youtube.com/watch?v=SOxYBHg7QQk",
+      "author_flair_text": null,
+      "quarantine": false,
+      "title": "Namae - Amazarashi [Alternative Rock / Japanese Music]",
+      "created_utc": 1451152826,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 33
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "soundcloud.com",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F238211095%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fskrux%2Funtil-you-were-gone-skrux-saturn-remix&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000140083936-61d7zq-t500x500.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=soundcloud\" width=\"500\" height=\"500\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 500,
+        "scrolling": false,
+        "height": 500
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "oembed": {
+          "provider_url": "http://soundcloud.com",
+          "description": "We've had to pitch the track up slightly due to copyright, but you can listen to the original here on spotify: http://smarturl.it/StreamUYWGRmxs Saturn: https://soundcloud.com/officialsaturn He's cool :D",
+          "title": "Until You Were Gone (Skrux &amp; Saturn Remix) by Skrux",
+          "type": "rich",
+          "thumbnail_width": 500,
+          "height": 500,
+          "width": 500,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F238211095%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fskrux%2Funtil-you-were-gone-skrux-saturn-remix&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000140083936-61d7zq-t500x500.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=soundcloud\" width=\"500\" height=\"500\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "author_name": "Skrux",
+          "version": "1.0",
+          "provider_name": "SoundCloud",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000140083936-61d7zq-t500x500.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "thumbnail_height": 500,
+          "author_url": "http://soundcloud.com/skrux"
+        },
+        "type": "soundcloud.com"
+      },
+      "link_flair_text": "Electronic",
+      "id": "3ybtp3",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "stabbinU",
+      "media": {
+        "oembed": {
+          "provider_url": "http://soundcloud.com",
+          "description": "We've had to pitch the track up slightly due to copyright, but you can listen to the original here on spotify: http://smarturl.it/StreamUYWGRmxs Saturn: https://soundcloud.com/officialsaturn He's cool :D",
+          "title": "Until You Were Gone (Skrux &amp; Saturn Remix) by Skrux",
+          "type": "rich",
+          "thumbnail_width": 500,
+          "height": 500,
+          "width": 500,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F238211095%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fskrux%2Funtil-you-were-gone-skrux-saturn-remix&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000140083936-61d7zq-t500x500.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=soundcloud\" width=\"500\" height=\"500\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "author_name": "Skrux",
+          "version": "1.0",
+          "provider_name": "SoundCloud",
+          "thumbnail_url": "http://i1.sndcdn.com/artworks-000140083936-61d7zq-t500x500.jpg",
+          "thumbnail_height": 500,
+          "author_url": "http://soundcloud.com/skrux"
+        },
+        "type": "soundcloud.com"
+      },
+      "score": 16,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/nFoHlkAXQGUzTmEaPNPOo07fS24LY3QpCKZUQBAoepw.jpg?s=26240e5ced2813ae308e32e78e05beff",
+              "width": 500,
+              "height": 500
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/nFoHlkAXQGUzTmEaPNPOo07fS24LY3QpCKZUQBAoepw.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=3bc4ba1ad1d4c19883a0335b0242c340",
+                "width": 108,
+                "height": 108
+              },
+              {
+                "url": "https://i.redditmedia.com/nFoHlkAXQGUzTmEaPNPOo07fS24LY3QpCKZUQBAoepw.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=47b9f7ebf294136f3bfc0bb306ef78de",
+                "width": 216,
+                "height": 216
+              },
+              {
+                "url": "https://i.redditmedia.com/nFoHlkAXQGUzTmEaPNPOo07fS24LY3QpCKZUQBAoepw.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=4554218e001f6d93bb2b3f1e79ac95a9",
+                "width": 320,
+                "height": 320
+              }
+            ],
+            "variants": {},
+            "id": "H2h3Y_Rk-3w2k6B4G_yd54GDZoqMFfM7b9VYhH6pxYU"
+          }
+        ]
+      },
+      "num_comments": 2,
+      "thumbnail": "http://b.thumbs.redditmedia.com/SBaKlsvCGxy4MdceOAwm1YRfHEOK4_TVI7vvP0_WiiM.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "electronic",
+      "author_flair_css_class": "curator",
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F238211095%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fskrux%2Funtil-you-were-gone-skrux-saturn-remix&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000140083936-61d7zq-t500x500.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=soundcloud\" width=\"500\" height=\"500\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 500,
+        "scrolling": false,
+        "height": 500
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "link",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3ybtp3/skrux_until_you_were_gone_remix_of_the/",
+      "locked": false,
+      "name": "t3_3ybtp3",
+      "created": 1451195522,
+      "url": "https://soundcloud.com/skrux/until-you-were-gone-skrux-saturn-remix",
+      "author_flair_text": "moderator",
+      "quarantine": false,
+      "title": "skrux -- until you were gone (remix of the chainsmokers) [electronic] (2015)",
+      "created_utc": 1451166722,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 16
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "youtube.com",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FHks9bXlim6o%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHks9bXlim6o&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHks9bXlim6o%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 338
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "type": "youtube.com",
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "New video from Rob Kelly The Four Horsemen ft. Illderberg Available on iTunes @ https://itunes.apple.com/us/album/black-irish-rogue/id876427564",
+          "title": "Rob Kelly - The Four Horsemen ft. Illderberg",
+          "url": "http://www.youtube.com/watch?v=Hks9bXlim6o",
+          "author_name": "TheKelloVision",
+          "height": 338,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FHks9bXlim6o%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHks9bXlim6o&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHks9bXlim6o%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHks9bXlim6o%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "type": "video",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/TheKelloVision"
+        }
+      },
+      "link_flair_text": "Hip-hop",
+      "id": "3yag9t",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "SetFireToTheRane",
+      "media": {
+        "type": "youtube.com",
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "New video from Rob Kelly The Four Horsemen ft. Illderberg Available on iTunes @ https://itunes.apple.com/us/album/black-irish-rogue/id876427564",
+          "title": "Rob Kelly - The Four Horsemen ft. Illderberg",
+          "url": "http://www.youtube.com/watch?v=Hks9bXlim6o",
+          "author_name": "TheKelloVision",
+          "height": 338,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FHks9bXlim6o%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHks9bXlim6o&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHks9bXlim6o%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.ytimg.com/vi/Hks9bXlim6o/hqdefault.jpg",
+          "type": "video",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/TheKelloVision"
+        }
+      },
+      "score": 54,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/SVQlQl4shpRyqZKxRkJO45rTbySeaDPxMENmtai_rvc.jpg?s=e14987a4fc84edc5400342bfc07d41f6",
+              "width": 480,
+              "height": 360
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/SVQlQl4shpRyqZKxRkJO45rTbySeaDPxMENmtai_rvc.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=fe4019e7855bff771bc8107578d92bf2",
+                "width": 108,
+                "height": 81
+              },
+              {
+                "url": "https://i.redditmedia.com/SVQlQl4shpRyqZKxRkJO45rTbySeaDPxMENmtai_rvc.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=bdb6a0f2a1e359d9d8672ad19446cd90",
+                "width": 216,
+                "height": 162
+              },
+              {
+                "url": "https://i.redditmedia.com/SVQlQl4shpRyqZKxRkJO45rTbySeaDPxMENmtai_rvc.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=eeee93503790c497acb0f061d090ac9b",
+                "width": 320,
+                "height": 240
+              }
+            ],
+            "variants": {},
+            "id": "7Hrhz_ScJjXOBh3HWl05o1WJweWb-kizeEg8WPIc_LQ"
+          }
+        ]
+      },
+      "num_comments": 14,
+      "thumbnail": "http://b.thumbs.redditmedia.com/1xmfmx694ew5w8Yzlbiv6vw26uuNCv7I6wsys-NK08Q.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "hiphop",
+      "author_flair_css_class": null,
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FHks9bXlim6o%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHks9bXlim6o&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHks9bXlim6o%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 338
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "rich:video",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3yag9t/rob_kelly_ft_illderberg_the_four_horsemen/",
+      "locked": false,
+      "name": "t3_3yag9t",
+      "created": 1451170386,
+      "url": "https://www.youtube.com/watch?v=Hks9bXlim6o",
+      "author_flair_text": null,
+      "quarantine": false,
+      "title": "Rob Kelly ft Illderberg - The Four Horsemen [Rap/Irish] (2014)",
+      "created_utc": 1451141586,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 54
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "youtube.com",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FAMa5EuvSaGA%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAMa5EuvSaGA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAMa5EuvSaGA%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "type": "youtube.com",
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Download at http://www.birp.fm/playlists/2011/4831-birp-march-2011",
+          "title": "048 - The Soft Province - Lazy Minds Die",
+          "url": "http://www.youtube.com/watch?v=AMa5EuvSaGA",
+          "author_name": "birpfmmarch2011",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FAMa5EuvSaGA%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAMa5EuvSaGA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAMa5EuvSaGA%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAMa5EuvSaGA%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "type": "video",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/birpfmmarch2011"
+        }
+      },
+      "link_flair_text": "Psychedelic",
+      "id": "3yamfq",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "feedthecollapse",
+      "media": {
+        "type": "youtube.com",
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Download at http://www.birp.fm/playlists/2011/4831-birp-march-2011",
+          "title": "048 - The Soft Province - Lazy Minds Die",
+          "url": "http://www.youtube.com/watch?v=AMa5EuvSaGA",
+          "author_name": "birpfmmarch2011",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FAMa5EuvSaGA%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAMa5EuvSaGA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAMa5EuvSaGA%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.ytimg.com/vi/AMa5EuvSaGA/hqdefault.jpg",
+          "type": "video",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/birpfmmarch2011"
+        }
+      },
+      "score": 46,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/WvKNE1xwscdJ2fnKjtHMeiV35yOAR6alEYomfH88TS4.jpg?s=5d70a59cb6207f2e89e9bc4e88e24201",
+              "width": 480,
+              "height": 360
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/WvKNE1xwscdJ2fnKjtHMeiV35yOAR6alEYomfH88TS4.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=85422f7e5e99bf1b883d71e910c30fec",
+                "width": 108,
+                "height": 81
+              },
+              {
+                "url": "https://i.redditmedia.com/WvKNE1xwscdJ2fnKjtHMeiV35yOAR6alEYomfH88TS4.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=9c8aaa85869863044017a0f4e9877bfe",
+                "width": 216,
+                "height": 162
+              },
+              {
+                "url": "https://i.redditmedia.com/WvKNE1xwscdJ2fnKjtHMeiV35yOAR6alEYomfH88TS4.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=9fea3b2ba0a5853b4929fc3be9ec491e",
+                "width": 320,
+                "height": 240
+              }
+            ],
+            "variants": {},
+            "id": "d8KiLlIQ9RN5ICOFDr5JnxXpYmWfymCl-TM7g_GOhks"
+          }
+        ]
+      },
+      "num_comments": 0,
+      "thumbnail": "http://b.thumbs.redditmedia.com/SMFnKhl9uz9t-Xmo7CPZ2NI_U8DA5ZOO7y2AqnrGIac.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "psychedelic",
+      "author_flair_css_class": "curator",
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FAMa5EuvSaGA%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAMa5EuvSaGA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAMa5EuvSaGA%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "rich:video",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3yamfq/the_soft_province_lazy_minds_die_indie/",
+      "locked": false,
+      "name": "t3_3yamfq",
+      "created": 1451174034,
+      "url": "https://www.youtube.com/watch?v=AMa5EuvSaGA",
+      "author_flair_text": "[Scream Pop]",
+      "quarantine": false,
+      "title": "The Soft Province -- Lazy Minds Die [Indie Rock/Psychedelic](2011) related to Besnard Lakes",
+      "created_utc": 1451145234,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 46
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "youtube.com",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FC195TWJP-Nc%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC195TWJP-Nc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FC195TWJP-Nc%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Spacesynth, synthdance, spacedance, spacedisco, synthesizerdance or whatever you want to call it is instrumental upbeat synth music that focuses on melodies instead of rhythm. Driving basslines, catchy synth riffs, sci-fi influences and futuristic track titles and album covers have always been a major part of spacesynth. Spacesynth originated in the mid 80's.",
+          "title": "Mega Drive - Pulse Of The Streets",
+          "url": "http://www.youtube.com/watch?v=C195TWJP-Nc",
+          "type": "video",
+          "author_name": "spacesynthed",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FC195TWJP-Nc%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC195TWJP-Nc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FC195TWJP-Nc%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FC195TWJP-Nc%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/spacesynthed"
+        },
+        "type": "youtube.com"
+      },
+      "link_flair_text": "Electronic",
+      "id": "3ybzu7",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "kaiise",
+      "media": {
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Spacesynth, synthdance, spacedance, spacedisco, synthesizerdance or whatever you want to call it is instrumental upbeat synth music that focuses on melodies instead of rhythm. Driving basslines, catchy synth riffs, sci-fi influences and futuristic track titles and album covers have always been a major part of spacesynth. Spacesynth originated in the mid 80's.",
+          "title": "Mega Drive - Pulse Of The Streets",
+          "url": "http://www.youtube.com/watch?v=C195TWJP-Nc",
+          "type": "video",
+          "author_name": "spacesynthed",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FC195TWJP-Nc%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC195TWJP-Nc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FC195TWJP-Nc%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.ytimg.com/vi/C195TWJP-Nc/hqdefault.jpg",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/spacesynthed"
+        },
+        "type": "youtube.com"
+      },
+      "score": 14,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/zjfvuzVzi44Nq3NeVWPw1kZkn2Y8j6PXzVPAtaSKsQ4.jpg?s=7e42c8535917e6e5b6fdd77eb5b00a1f",
+              "width": 480,
+              "height": 360
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/zjfvuzVzi44Nq3NeVWPw1kZkn2Y8j6PXzVPAtaSKsQ4.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=673ac8bc462c1617aa286a1d4cd65b6f",
+                "width": 108,
+                "height": 81
+              },
+              {
+                "url": "https://i.redditmedia.com/zjfvuzVzi44Nq3NeVWPw1kZkn2Y8j6PXzVPAtaSKsQ4.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=ce06974905d9e057a5bea0e97ae46341",
+                "width": 216,
+                "height": 162
+              },
+              {
+                "url": "https://i.redditmedia.com/zjfvuzVzi44Nq3NeVWPw1kZkn2Y8j6PXzVPAtaSKsQ4.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=1f72fc68eff00f065005d69aa3276a0e",
+                "width": 320,
+                "height": 240
+              }
+            ],
+            "variants": {},
+            "id": "B-U_31TT1Ap5iVE6ALyLN0ZKHZnyXgWUeNVooBDV1w4"
+          }
+        ]
+      },
+      "num_comments": 2,
+      "thumbnail": "http://b.thumbs.redditmedia.com/AVyq7Z1ILGx9U2Y9F4O6_cMGd1HLE8EYcvg7dV067nw.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "electronic",
+      "author_flair_css_class": null,
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FC195TWJP-Nc%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC195TWJP-Nc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FC195TWJP-Nc%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "rich:video",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3ybzu7/mega_drive_pulse_of_the_streets_synth_space/",
+      "locked": false,
+      "name": "t3_3ybzu7",
+      "created": 1451198467,
+      "url": "https://www.youtube.com/watch?v=C195TWJP-Nc",
+      "author_flair_text": null,
+      "quarantine": false,
+      "title": "Mega Drive - Pulse Of The Streets [synth - space disco-16bit demo-esque](2013)",
+      "created_utc": 1451169667,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 14
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "youtube.com",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F6BwdwaT-UNM%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6BwdwaT-UNM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6BwdwaT-UNM%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Incluida su álbum \"THE THIRD ALBUM FOR THE SUN\" (1997).",
+          "title": "Dissolve INTO THE BLACK",
+          "url": "http://www.youtube.com/watch?v=6BwdwaT-UNM",
+          "type": "video",
+          "author_name": "angel luis",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F6BwdwaT-UNM%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6BwdwaT-UNM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6BwdwaT-UNM%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6BwdwaT-UNM%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/montgomery2878"
+        },
+        "type": "youtube.com"
+      },
+      "link_flair_text": "Psychedelic",
+      "id": "3ybrzj",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "feedthecollapse",
+      "media": {
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Incluida su álbum \"THE THIRD ALBUM FOR THE SUN\" (1997).",
+          "title": "Dissolve INTO THE BLACK",
+          "url": "http://www.youtube.com/watch?v=6BwdwaT-UNM",
+          "type": "video",
+          "author_name": "angel luis",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F6BwdwaT-UNM%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6BwdwaT-UNM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6BwdwaT-UNM%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.ytimg.com/vi/6BwdwaT-UNM/hqdefault.jpg",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/montgomery2878"
+        },
+        "type": "youtube.com"
+      },
+      "score": 15,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/uZsoVImxmnV7eFWgCdmOdINf_Er3IdkDItau676dvBM.jpg?s=04d6c8a5fc05aeda8137b8a5d96a0464",
+              "width": 480,
+              "height": 360
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/uZsoVImxmnV7eFWgCdmOdINf_Er3IdkDItau676dvBM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=f36b09b8daad11fbb0e2caf1d9c58de6",
+                "width": 108,
+                "height": 81
+              },
+              {
+                "url": "https://i.redditmedia.com/uZsoVImxmnV7eFWgCdmOdINf_Er3IdkDItau676dvBM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=12314675bff5c7b369bb3c921707d1c1",
+                "width": 216,
+                "height": 162
+              },
+              {
+                "url": "https://i.redditmedia.com/uZsoVImxmnV7eFWgCdmOdINf_Er3IdkDItau676dvBM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=e8a4116a24c5103ed6c1c6c86a8a4de4",
+                "width": 320,
+                "height": 240
+              }
+            ],
+            "variants": {},
+            "id": "7DjVlynq-hIt20_jKTSQTJu-ozbDBgfdZtCPYSd5iAw"
+          }
+        ]
+      },
+      "num_comments": 0,
+      "thumbnail": "http://a.thumbs.redditmedia.com/xMaJHRIWQFnFShiruS3L3PuVl22QVr68PpxMTQv2gc4.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "psychedelic",
+      "author_flair_css_class": "curator",
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F6BwdwaT-UNM%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6BwdwaT-UNM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6BwdwaT-UNM%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "rich:video",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3ybrzj/dissolve_into_the_black_psychedelic_folkspace/",
+      "locked": false,
+      "name": "t3_3ybrzj",
+      "created": 1451194668,
+      "url": "https://www.youtube.com/watch?v=6BwdwaT-UNM",
+      "author_flair_text": "[Scream Pop]",
+      "quarantine": false,
+      "title": "Dissolve -- Into the Black [Psychedelic Folk/Space Rock](1997)",
+      "created_utc": 1451165868,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 15
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "youtu.be",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F06mMD797xqY%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D06mMD797xqY%26feature%3Dyoutu.be&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F06mMD797xqY%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 338
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "type": "youtu.be",
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Hondo! 'The History Of Future Folk' is now streaming on Netflix. In the new film 'The History Of Future Folk,' space aliens on a mission to invade earth instead fall in love with our music. The aliens' musical prowess is clearly highly advanced, as they quickly learn the rootsy feel and bare emotion of bluegrass.",
+          "title": "Future Folk: \"Space Worms,\" Live On Soundcheck",
+          "url": "http://www.youtube.com/watch?v=06mMD797xqY",
+          "author_name": "WNYC",
+          "height": 338,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F06mMD797xqY%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D06mMD797xqY%26feature%3Dyoutu.be&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F06mMD797xqY%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F06mMD797xqY%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "type": "video",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/wnycradio"
+        }
+      },
+      "link_flair_text": "Folk",
+      "id": "3yc8gm",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "BadSmash4",
+      "media": {
+        "type": "youtu.be",
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Hondo! 'The History Of Future Folk' is now streaming on Netflix. In the new film 'The History Of Future Folk,' space aliens on a mission to invade earth instead fall in love with our music. The aliens' musical prowess is clearly highly advanced, as they quickly learn the rootsy feel and bare emotion of bluegrass.",
+          "title": "Future Folk: \"Space Worms,\" Live On Soundcheck",
+          "url": "http://www.youtube.com/watch?v=06mMD797xqY",
+          "author_name": "WNYC",
+          "height": 338,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F06mMD797xqY%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D06mMD797xqY%26feature%3Dyoutu.be&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F06mMD797xqY%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.ytimg.com/vi/06mMD797xqY/hqdefault.jpg",
+          "type": "video",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/wnycradio"
+        }
+      },
+      "score": 8,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/t7TWXg5K5LT1FTAelS-xstvazTSY1T1NWcPHHRPs-i8.jpg?s=1a2542bc00818e1c7d8de1cf10a943a8",
+              "width": 480,
+              "height": 360
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/t7TWXg5K5LT1FTAelS-xstvazTSY1T1NWcPHHRPs-i8.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=c8f200a74308c67620f2226d3cc20d16",
+                "width": 108,
+                "height": 81
+              },
+              {
+                "url": "https://i.redditmedia.com/t7TWXg5K5LT1FTAelS-xstvazTSY1T1NWcPHHRPs-i8.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=54ba3f15cadc460684f7b29b14ce7cf0",
+                "width": 216,
+                "height": 162
+              },
+              {
+                "url": "https://i.redditmedia.com/t7TWXg5K5LT1FTAelS-xstvazTSY1T1NWcPHHRPs-i8.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=ed7f68e292f7c858ccf449fde51f2bb8",
+                "width": 320,
+                "height": 240
+              }
+            ],
+            "variants": {},
+            "id": "xg_PBXdU3VkKg-uW0pvAZv4YDZbUUFypsr59B92wVhI"
+          }
+        ]
+      },
+      "num_comments": 1,
+      "thumbnail": "http://b.thumbs.redditmedia.com/mg3Z56Z7DM0rKxXCiqmOOLp6rRByP-XUyPUAV7v-RTQ.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "folk",
+      "author_flair_css_class": null,
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F06mMD797xqY%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D06mMD797xqY%26feature%3Dyoutu.be&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F06mMD797xqY%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 338
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "rich:video",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3yc8gm/future_folk_space_worms_folkgimmick/",
+      "locked": false,
+      "name": "t3_3yc8gm",
+      "created": 1451202662,
+      "url": "https://youtu.be/06mMD797xqY",
+      "author_flair_text": null,
+      "quarantine": false,
+      "title": "Future Folk - Space Worms [Folk/Gimmick]",
+      "created_utc": 1451173862,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 8
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "youtube.com",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FPWQ8_nOUx2o%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPWQ8_nOUx2o&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPWQ8_nOUx2o%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "1st take, just like 30 yrs ago, this time with new mistakes, don't copy them, make your own. All that counts really are the 2 main themes, with the descending coda(?) everything else was improvised then and now, (I think I stole a little from early Leo Kottke in the middle).",
+          "title": "Klaus Weiland playing \"das Loch in der Banane\"",
+          "url": "http://www.youtube.com/watch?v=PWQ8_nOUx2o",
+          "type": "video",
+          "author_name": "Klaus Weiland",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FPWQ8_nOUx2o%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPWQ8_nOUx2o&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPWQ8_nOUx2o%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPWQ8_nOUx2o%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/Derweiland"
+        },
+        "type": "youtube.com"
+      },
+      "link_flair_text": "Folk",
+      "id": "3yascz",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "Tele_Prompter",
+      "media": {
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "1st take, just like 30 yrs ago, this time with new mistakes, don't copy them, make your own. All that counts really are the 2 main themes, with the descending coda(?) everything else was improvised then and now, (I think I stole a little from early Leo Kottke in the middle).",
+          "title": "Klaus Weiland playing \"das Loch in der Banane\"",
+          "url": "http://www.youtube.com/watch?v=PWQ8_nOUx2o",
+          "type": "video",
+          "author_name": "Klaus Weiland",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FPWQ8_nOUx2o%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPWQ8_nOUx2o&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPWQ8_nOUx2o%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.ytimg.com/vi/PWQ8_nOUx2o/hqdefault.jpg",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/Derweiland"
+        },
+        "type": "youtube.com"
+      },
+      "score": 29,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/e5sJk9bjmzRoERwRNpyUN0pt4g355MP8rc2v7Z1zKWI.jpg?s=ddfee32a9a50853c8cbc1ee4bb315466",
+              "width": 480,
+              "height": 360
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/e5sJk9bjmzRoERwRNpyUN0pt4g355MP8rc2v7Z1zKWI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=41ccb99c38202acc056868d495724ed3",
+                "width": 108,
+                "height": 81
+              },
+              {
+                "url": "https://i.redditmedia.com/e5sJk9bjmzRoERwRNpyUN0pt4g355MP8rc2v7Z1zKWI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=8d0e05ad3d138239d9ca2f50d402d989",
+                "width": 216,
+                "height": 162
+              },
+              {
+                "url": "https://i.redditmedia.com/e5sJk9bjmzRoERwRNpyUN0pt4g355MP8rc2v7Z1zKWI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=3de869df871652c903e7f3a572549297",
+                "width": 320,
+                "height": 240
+              }
+            ],
+            "variants": {},
+            "id": "pveMvgV32jCs9XosUnhR4aHCGTlygA3LHE4dnDqBxHg"
+          }
+        ]
+      },
+      "num_comments": 3,
+      "thumbnail": "http://b.thumbs.redditmedia.com/sVkHF0M2TfPqFmp1PnKz5cFag-scYs3XtNbHPm2CZKc.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "folk",
+      "author_flair_css_class": null,
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FPWQ8_nOUx2o%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPWQ8_nOUx2o&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPWQ8_nOUx2o%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "rich:video",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3yascz/klaus_weiland_das_loch_in_der_banane_folklive_2010/",
+      "locked": false,
+      "name": "t3_3yascz",
+      "created": 1451177176,
+      "url": "https://www.youtube.com/watch?v=PWQ8_nOUx2o",
+      "author_flair_text": null,
+      "quarantine": false,
+      "title": "Klaus Weiland - Das Loch in der Banane [folk|live] (2010)",
+      "created_utc": 1451148376,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 29
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "youtu.be",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fw71N7MX9HcQ%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw71N7MX9HcQ%26feature%3Dyoutu.be&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fw71N7MX9HcQ%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "type": "youtu.be",
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Song from album Tobimasu (1975). Enjoy it",
+          "title": "Hako Yamasaki - Wandering",
+          "url": "http://www.youtube.com/watch?v=w71N7MX9HcQ",
+          "author_name": "SantiagoFred",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fw71N7MX9HcQ%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw71N7MX9HcQ%26feature%3Dyoutu.be&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fw71N7MX9HcQ%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fw71N7MX9HcQ%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "type": "video",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/SantiagoFred"
+        }
+      },
+      "link_flair_text": "Folk",
+      "id": "3y8vk8",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "DontPMmeYourAnything",
+      "media": {
+        "type": "youtu.be",
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Song from album Tobimasu (1975). Enjoy it",
+          "title": "Hako Yamasaki - Wandering",
+          "url": "http://www.youtube.com/watch?v=w71N7MX9HcQ",
+          "author_name": "SantiagoFred",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fw71N7MX9HcQ%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw71N7MX9HcQ%26feature%3Dyoutu.be&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fw71N7MX9HcQ%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.ytimg.com/vi/w71N7MX9HcQ/hqdefault.jpg",
+          "type": "video",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/SantiagoFred"
+        }
+      },
+      "score": 345,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/m2SDtmnxZqntc52abeMEBfqmIYOjnx9ga0KS-Dh1-W4.jpg?s=8464014d4fa4dcf6f765cdc167688078",
+              "width": 480,
+              "height": 360
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/m2SDtmnxZqntc52abeMEBfqmIYOjnx9ga0KS-Dh1-W4.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=730d9d272a6a4a0a9b890b1048981331",
+                "width": 108,
+                "height": 81
+              },
+              {
+                "url": "https://i.redditmedia.com/m2SDtmnxZqntc52abeMEBfqmIYOjnx9ga0KS-Dh1-W4.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=6ffe4c75f1a812f5d57b59e7780807c7",
+                "width": 216,
+                "height": 162
+              },
+              {
+                "url": "https://i.redditmedia.com/m2SDtmnxZqntc52abeMEBfqmIYOjnx9ga0KS-Dh1-W4.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=b1bab4067f3a974c0c2885980fd13944",
+                "width": 320,
+                "height": 240
+              }
+            ],
+            "variants": {},
+            "id": "73j8iu9pg4lY7IdmhlQAfEIqPimZXcwMtCWJab7JpJ8"
+          }
+        ]
+      },
+      "num_comments": 24,
+      "thumbnail": "http://b.thumbs.redditmedia.com/4Z4lK1hkfHZ52vqzpkdBWgcjAYuF-8IFmEtXeJdlGwg.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "folk",
+      "author_flair_css_class": null,
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fw71N7MX9HcQ%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw71N7MX9HcQ%26feature%3Dyoutu.be&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fw71N7MX9HcQ%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "rich:video",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3y8vk8/hako_yamasaki_wandering_folk_1975/",
+      "locked": false,
+      "name": "t3_3y8vk8",
+      "created": 1451128104,
+      "url": "https://youtu.be/w71N7MX9HcQ",
+      "author_flair_text": null,
+      "quarantine": false,
+      "title": "Hako Yamasaki - Wandering [folk] (1975)",
+      "created_utc": 1451099304,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 345
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "youtube.com",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F0QKc6b6FrYg%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0QKc6b6FrYg&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0QKc6b6FrYg%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "type": "youtube.com",
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Artist: Hermano Title: Senor Moreno's Plan Album: Only A Suggestion Year: 2002 (All rights belong to their respective owners.)",
+          "title": "Hermano - Senor Moreno's Plan",
+          "url": "http://www.youtube.com/watch?v=0QKc6b6FrYg",
+          "author_name": "Wardog",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F0QKc6b6FrYg%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0QKc6b6FrYg&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0QKc6b6FrYg%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0QKc6b6FrYg%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "type": "video",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/WardogsChannel"
+        }
+      },
+      "link_flair_text": "Heavy",
+      "id": "3yakwr",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "tawtaw",
+      "media": {
+        "type": "youtube.com",
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Artist: Hermano Title: Senor Moreno's Plan Album: Only A Suggestion Year: 2002 (All rights belong to their respective owners.)",
+          "title": "Hermano - Senor Moreno's Plan",
+          "url": "http://www.youtube.com/watch?v=0QKc6b6FrYg",
+          "author_name": "Wardog",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F0QKc6b6FrYg%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0QKc6b6FrYg&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0QKc6b6FrYg%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.ytimg.com/vi/0QKc6b6FrYg/hqdefault.jpg",
+          "type": "video",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/WardogsChannel"
+        }
+      },
+      "score": 34,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/OIwXbuOtXVW-a8tf6PIpllR2Pbo05AFUuZeku_GJfjM.jpg?s=3b35a1acb63c712823a9c51ff3e5775f",
+              "width": 480,
+              "height": 360
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/OIwXbuOtXVW-a8tf6PIpllR2Pbo05AFUuZeku_GJfjM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=5daa1e695802eabaf76758c4c90cd41f",
+                "width": 108,
+                "height": 81
+              },
+              {
+                "url": "https://i.redditmedia.com/OIwXbuOtXVW-a8tf6PIpllR2Pbo05AFUuZeku_GJfjM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=f56be326a79654b4cc5791f566fce55c",
+                "width": 216,
+                "height": 162
+              },
+              {
+                "url": "https://i.redditmedia.com/OIwXbuOtXVW-a8tf6PIpllR2Pbo05AFUuZeku_GJfjM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=c3f4e85d28438176ec284f19db03ced3",
+                "width": 320,
+                "height": 240
+              }
+            ],
+            "variants": {},
+            "id": "E_-r85-B84NzxhcHC7SlKNVnzPaoZlgluE6zrB_YAtQ"
+          }
+        ]
+      },
+      "num_comments": 1,
+      "thumbnail": "http://b.thumbs.redditmedia.com/mGALbmqA9xzy1JE3TPhF9MavKdQVchQC5a0FLmWWb_k.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "heavy",
+      "author_flair_css_class": null,
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F0QKc6b6FrYg%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0QKc6b6FrYg&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F0QKc6b6FrYg%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "rich:video",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3yakwr/hermano_senor_morenos_plan_stoner_rock_2002/",
+      "locked": false,
+      "name": "t3_3yakwr",
+      "created": 1451173166,
+      "url": "https://www.youtube.com/watch?v=0QKc6b6FrYg",
+      "author_flair_text": null,
+      "quarantine": false,
+      "title": "Hermano - \"Senor Moreno's Plan\" [stoner rock] (2002)",
+      "created_utc": 1451144366,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 34
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "youtube.com",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fm-0H4HOATOM%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dm-0H4HOATOM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fm-0H4HOATOM%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 338
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Spacey and cinematic ambient/electronic composer from Vilnius, Lithuania. Creating music since 2007. Join my Facebook page for images and more: http://www.facebook.com/pages/Space-Ambient/234697613216043",
+          "title": "Stellardrone - Eternity",
+          "url": "http://www.youtube.com/watch?v=m-0H4HOATOM",
+          "type": "video",
+          "author_name": "SpaceAmbient",
+          "height": 338,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fm-0H4HOATOM%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dm-0H4HOATOM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fm-0H4HOATOM%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fm-0H4HOATOM%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/SpaceAmbient"
+        },
+        "type": "youtube.com"
+      },
+      "link_flair_text": "Ambient",
+      "id": "3yc2g8",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "hellwanker",
+      "media": {
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Spacey and cinematic ambient/electronic composer from Vilnius, Lithuania. Creating music since 2007. Join my Facebook page for images and more: http://www.facebook.com/pages/Space-Ambient/234697613216043",
+          "title": "Stellardrone - Eternity",
+          "url": "http://www.youtube.com/watch?v=m-0H4HOATOM",
+          "type": "video",
+          "author_name": "SpaceAmbient",
+          "height": 338,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fm-0H4HOATOM%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dm-0H4HOATOM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fm-0H4HOATOM%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.ytimg.com/vi/m-0H4HOATOM/hqdefault.jpg",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/SpaceAmbient"
+        },
+        "type": "youtube.com"
+      },
+      "score": 6,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/IU9dMiB825hSLN0ZRkUOfYYcopDM0ZFkiRnLk1Mx_Q8.jpg?s=74daf86fda9aaece9ffd5ec6f7370271",
+              "width": 480,
+              "height": 360
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/IU9dMiB825hSLN0ZRkUOfYYcopDM0ZFkiRnLk1Mx_Q8.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=c6ea7143e9cba2a912a484b750305746",
+                "width": 108,
+                "height": 81
+              },
+              {
+                "url": "https://i.redditmedia.com/IU9dMiB825hSLN0ZRkUOfYYcopDM0ZFkiRnLk1Mx_Q8.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=bebda17ecc5517b4d89db393870383f9",
+                "width": 216,
+                "height": 162
+              },
+              {
+                "url": "https://i.redditmedia.com/IU9dMiB825hSLN0ZRkUOfYYcopDM0ZFkiRnLk1Mx_Q8.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=1184b4d8ad40ca812e13ebaf9acb209f",
+                "width": 320,
+                "height": 240
+              }
+            ],
+            "variants": {},
+            "id": "Aw-38yxZ3bFD_eatpVrgaPu1Ltbj0si0U34cgk_4PUE"
+          }
+        ]
+      },
+      "num_comments": 4,
+      "thumbnail": "http://b.thumbs.redditmedia.com/lGTTl4T5ZHgutI1c5hAiINHEDjRy8pvDque80sIgUhU.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "ambient",
+      "author_flair_css_class": null,
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fm-0H4HOATOM%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dm-0H4HOATOM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fm-0H4HOATOM%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 338
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "rich:video",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3yc2g8/stellardrone_eternity_space_ambientchillout_2013/",
+      "locked": false,
+      "name": "t3_3yc2g8",
+      "created": 1451199748,
+      "url": "https://www.youtube.com/watch?v=m-0H4HOATOM",
+      "author_flair_text": null,
+      "quarantine": false,
+      "title": "Stellardrone - Eternity [Space Ambient/Chillout] (2013)",
+      "created_utc": 1451170948,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 6
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "youtube.com",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FeSu5TR9E8nQ%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeSu5TR9E8nQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeSu5TR9E8nQ%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "type": "youtube.com",
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Second track off the \"Let's Get Electric\" tape.",
+          "title": "Cheap Talk - Night Heat",
+          "url": "http://www.youtube.com/watch?v=eSu5TR9E8nQ",
+          "author_name": "BaskinCase",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FeSu5TR9E8nQ%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeSu5TR9E8nQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeSu5TR9E8nQ%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeSu5TR9E8nQ%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "type": "video",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/BaskinCase"
+        }
+      },
+      "link_flair_text": "Electronic",
+      "id": "3yc16g",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "thedigitalpurgatory",
+      "media": {
+        "type": "youtube.com",
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Second track off the \"Let's Get Electric\" tape.",
+          "title": "Cheap Talk - Night Heat",
+          "url": "http://www.youtube.com/watch?v=eSu5TR9E8nQ",
+          "author_name": "BaskinCase",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FeSu5TR9E8nQ%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeSu5TR9E8nQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeSu5TR9E8nQ%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.ytimg.com/vi/eSu5TR9E8nQ/hqdefault.jpg",
+          "type": "video",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/BaskinCase"
+        }
+      },
+      "score": 5,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/kQKM4e_IjzRyJ9W2_DxHxS6XlrM9aaHoFUOJK5PokSQ.jpg?s=1beeacc76cc6ae4ebca48be6e25d31a0",
+              "width": 480,
+              "height": 360
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/kQKM4e_IjzRyJ9W2_DxHxS6XlrM9aaHoFUOJK5PokSQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=50d78a7e981eb45f6dada7b2ca387002",
+                "width": 108,
+                "height": 81
+              },
+              {
+                "url": "https://i.redditmedia.com/kQKM4e_IjzRyJ9W2_DxHxS6XlrM9aaHoFUOJK5PokSQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=2dd530a1bc0a2a428fc97641130365a3",
+                "width": 216,
+                "height": 162
+              },
+              {
+                "url": "https://i.redditmedia.com/kQKM4e_IjzRyJ9W2_DxHxS6XlrM9aaHoFUOJK5PokSQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=eebb86d954d5a459d18a0ea9e09eb26c",
+                "width": 320,
+                "height": 240
+              }
+            ],
+            "variants": {},
+            "id": "XNABHORLIWst5MI5HVwNk23VjsWrvvZhSVCt0xXzpKc"
+          }
+        ]
+      },
+      "num_comments": 1,
+      "thumbnail": "http://b.thumbs.redditmedia.com/h2tk9av-xlYaeswn4mZzqlmzqtwIaN0FOjz7dLNN1lo.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "electronic",
+      "author_flair_css_class": null,
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FeSu5TR9E8nQ%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeSu5TR9E8nQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeSu5TR9E8nQ%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "rich:video",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3yc16g/cheap_talk_night_heat_synthpop_2014/",
+      "locked": false,
+      "name": "t3_3yc16g",
+      "created": 1451199128,
+      "url": "https://www.youtube.com/watch?v=eSu5TR9E8nQ",
+      "author_flair_text": null,
+      "quarantine": false,
+      "title": "Cheap Talk - Night Heat [Synthpop] (2014)",
+      "created_utc": 1451170328,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 5
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "soundcloud.com",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F213443539%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fishdarr%2Fsugar&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000122359867-1e7nyv-t500x500.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=soundcloud\" width=\"500\" height=\"500\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 500,
+        "scrolling": false,
+        "height": 500
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "oembed": {
+          "provider_url": "http://soundcloud.com",
+          "description": "my sugaaa thang. DOWNLOAD: https://itun.es/us/Teaz9",
+          "title": "Sugar (Prod. MEDASIN) [DOWNLOAD LINK] by IshDARR",
+          "type": "rich",
+          "thumbnail_width": 500,
+          "height": 500,
+          "width": 500,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F213443539%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fishdarr%2Fsugar&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000122359867-1e7nyv-t500x500.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=soundcloud\" width=\"500\" height=\"500\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "author_name": "IshDARR",
+          "version": "1.0",
+          "provider_name": "SoundCloud",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000122359867-1e7nyv-t500x500.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "thumbnail_height": 500,
+          "author_url": "http://soundcloud.com/ishdarr"
+        },
+        "type": "soundcloud.com"
+      },
+      "link_flair_text": "Hip-hop",
+      "id": "3ybtcf",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "stabbinU",
+      "media": {
+        "oembed": {
+          "provider_url": "http://soundcloud.com",
+          "description": "my sugaaa thang. DOWNLOAD: https://itun.es/us/Teaz9",
+          "title": "Sugar (Prod. MEDASIN) [DOWNLOAD LINK] by IshDARR",
+          "type": "rich",
+          "thumbnail_width": 500,
+          "height": 500,
+          "width": 500,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F213443539%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fishdarr%2Fsugar&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000122359867-1e7nyv-t500x500.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=soundcloud\" width=\"500\" height=\"500\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "author_name": "IshDARR",
+          "version": "1.0",
+          "provider_name": "SoundCloud",
+          "thumbnail_url": "http://i1.sndcdn.com/artworks-000122359867-1e7nyv-t500x500.jpg",
+          "thumbnail_height": 500,
+          "author_url": "http://soundcloud.com/ishdarr"
+        },
+        "type": "soundcloud.com"
+      },
+      "score": 5,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/TxFuFMPX8KXzyJQicTc8YhSs17eIemdHKx3wNRHqvVQ.jpg?s=ded56f21f817d1b348420baf0c346360",
+              "width": 500,
+              "height": 500
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/TxFuFMPX8KXzyJQicTc8YhSs17eIemdHKx3wNRHqvVQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=7a8929057e3c4966dc6ad0580702f347",
+                "width": 108,
+                "height": 108
+              },
+              {
+                "url": "https://i.redditmedia.com/TxFuFMPX8KXzyJQicTc8YhSs17eIemdHKx3wNRHqvVQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=84a61db2a005b0dd03141d1224978aa8",
+                "width": 216,
+                "height": 216
+              },
+              {
+                "url": "https://i.redditmedia.com/TxFuFMPX8KXzyJQicTc8YhSs17eIemdHKx3wNRHqvVQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=4fb8dd6db91029808d7934ca7508ae7a",
+                "width": 320,
+                "height": 320
+              }
+            ],
+            "variants": {},
+            "id": "3UTdcnGCWzqx0LF7nA5h1kIO4Ti7UiZDQxVqpasgcvg"
+          }
+        ]
+      },
+      "num_comments": 0,
+      "thumbnail": "http://b.thumbs.redditmedia.com/9pqbsVYCkadmwst9vZ2noYPrURheVlQ-eL-oGSX9TSQ.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "hiphop",
+      "author_flair_css_class": "curator",
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F213443539%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fishdarr%2Fsugar&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000122359867-1e7nyv-t500x500.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=soundcloud\" width=\"500\" height=\"500\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 500,
+        "scrolling": false,
+        "height": 500
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "link",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3ybtcf/ishdarr_sugar_hiphop_electronic_2015/",
+      "locked": false,
+      "name": "t3_3ybtcf",
+      "created": 1451195348,
+      "url": "https://soundcloud.com/ishdarr/sugar",
+      "author_flair_text": "moderator",
+      "quarantine": false,
+      "title": "IshDARR -- sugar [hip-hop, electronic] (2015)",
+      "created_utc": 1451166548,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 5
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "youtube.com",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F4MsaOQT-rQ0%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4MsaOQT-rQ0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4MsaOQT-rQ0%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Surf bank Social Club",
+          "title": "一十三十一　Passion Girl",
+          "url": "http://www.youtube.com/watch?v=4MsaOQT-rQ0",
+          "type": "video",
+          "author_name": "xianzhi57",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F4MsaOQT-rQ0%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4MsaOQT-rQ0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4MsaOQT-rQ0%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4MsaOQT-rQ0%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/xianzhi57"
+        },
+        "type": "youtube.com"
+      },
+      "link_flair_text": "Pop",
+      "id": "3yc9kq",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "thedigitalpurgatory",
+      "media": {
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "Surf bank Social Club",
+          "title": "一十三十一　Passion Girl",
+          "url": "http://www.youtube.com/watch?v=4MsaOQT-rQ0",
+          "type": "video",
+          "author_name": "xianzhi57",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F4MsaOQT-rQ0%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4MsaOQT-rQ0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4MsaOQT-rQ0%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.ytimg.com/vi/4MsaOQT-rQ0/hqdefault.jpg",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/xianzhi57"
+        },
+        "type": "youtube.com"
+      },
+      "score": 4,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/spEBDH5SaffuKfPlPyoirfdz2KTXeJeAUvGT4Tu-vCY.jpg?s=c327d834a8b8b59f04e3d96dc98d1505",
+              "width": 480,
+              "height": 360
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/spEBDH5SaffuKfPlPyoirfdz2KTXeJeAUvGT4Tu-vCY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=b8a0aef2df362b16e9e2388c69d89aca",
+                "width": 108,
+                "height": 81
+              },
+              {
+                "url": "https://i.redditmedia.com/spEBDH5SaffuKfPlPyoirfdz2KTXeJeAUvGT4Tu-vCY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=cc2404d77b3242dd81b0d1c038278ee8",
+                "width": 216,
+                "height": 162
+              },
+              {
+                "url": "https://i.redditmedia.com/spEBDH5SaffuKfPlPyoirfdz2KTXeJeAUvGT4Tu-vCY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=c299cc1417048dbbe2c72a50bb1d859a",
+                "width": 320,
+                "height": 240
+              }
+            ],
+            "variants": {},
+            "id": "HlP0hOKT0fWCUq6pgr6qj6bqdoBwie2hAGJaTirdRsc"
+          }
+        ]
+      },
+      "num_comments": 1,
+      "thumbnail": "http://b.thumbs.redditmedia.com/pKl61u8cnxc03GIj06JTC3JgJp9vZrBz7lSSKm54aXQ.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "pop",
+      "author_flair_css_class": null,
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F4MsaOQT-rQ0%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4MsaOQT-rQ0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4MsaOQT-rQ0%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "rich:video",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3yc9kq/hitomitoi_passion_girl_city_popjpop_2013/",
+      "locked": false,
+      "name": "t3_3yc9kq",
+      "created": 1451203222,
+      "url": "https://www.youtube.com/watch?v=4MsaOQT-rQ0",
+      "author_flair_text": null,
+      "quarantine": false,
+      "title": "Hitomitoi - Passion Girl [City Pop/J-Pop] (2013)",
+      "created_utc": 1451174422,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 4
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "youtube.com",
+      "banned_by": null,
+      "media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fq7Sn65UEjvM%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq7Sn65UEjvM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fq7Sn65UEjvM%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": {
+        "type": "youtube.com",
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "The live version of Heavenly Persona. Taken off Live Shizuka (1995).",
+          "title": "Shizuka (静香) - Heavenly Persona",
+          "url": "http://www.youtube.com/watch?v=q7Sn65UEjvM",
+          "author_name": "arkham1789",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fq7Sn65UEjvM%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq7Sn65UEjvM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fq7Sn65UEjvM%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fq7Sn65UEjvM%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+          "type": "video",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/arkham1789"
+        }
+      },
+      "link_flair_text": "Psychedelic",
+      "id": "3ycjcp",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "Snitsie",
+      "media": {
+        "type": "youtube.com",
+        "oembed": {
+          "provider_url": "https://www.youtube.com/",
+          "description": "The live version of Heavenly Persona. Taken off Live Shizuka (1995).",
+          "title": "Shizuka (静香) - Heavenly Persona",
+          "url": "http://www.youtube.com/watch?v=q7Sn65UEjvM",
+          "author_name": "arkham1789",
+          "height": 450,
+          "width": 600,
+          "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fq7Sn65UEjvM%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq7Sn65UEjvM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fq7Sn65UEjvM%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+          "thumbnail_width": 480,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "thumbnail_url": "https://i.ytimg.com/vi/q7Sn65UEjvM/hqdefault.jpg",
+          "type": "video",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/arkham1789"
+        }
+      },
+      "score": 4,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "preview": {
+        "images": [
+          {
+            "source": {
+              "url": "https://i.redditmedia.com/kZRqlwoY1S_1fv4Th_sLF4ro68rEUzp0bW88XQ24zoU.jpg?s=623622118e990fa5884960710f990ec0",
+              "width": 480,
+              "height": 360
+            },
+            "resolutions": [
+              {
+                "url": "https://i.redditmedia.com/kZRqlwoY1S_1fv4Th_sLF4ro68rEUzp0bW88XQ24zoU.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=4b9ff2c9f0c182b473089b0fd39d096f",
+                "width": 108,
+                "height": 81
+              },
+              {
+                "url": "https://i.redditmedia.com/kZRqlwoY1S_1fv4Th_sLF4ro68rEUzp0bW88XQ24zoU.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=8234b7971f842845c1957e34b4fd6268",
+                "width": 216,
+                "height": 162
+              },
+              {
+                "url": "https://i.redditmedia.com/kZRqlwoY1S_1fv4Th_sLF4ro68rEUzp0bW88XQ24zoU.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=adb69c4f060eb124a36ed717bee13bd6",
+                "width": 320,
+                "height": 240
+              }
+            ],
+            "variants": {},
+            "id": "fMAoEPszCS9nzzNulxhc8xqKff0c6PqECdvpEZFd7t8"
+          }
+        ]
+      },
+      "num_comments": 0,
+      "thumbnail": "http://b.thumbs.redditmedia.com/8OyL7dRpxNA04TyJZxodSWlE3Dmi2LfYJapZsz81K2c.jpg",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": true,
+      "edited": false,
+      "link_flair_css_class": "psychedelic",
+      "author_flair_css_class": null,
+      "downs": 0,
+      "secure_media_embed": {
+        "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fq7Sn65UEjvM%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq7Sn65UEjvM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fq7Sn65UEjvM%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+        "width": 600,
+        "scrolling": false,
+        "height": 450
+      },
+      "saved": false,
+      "removal_reason": null,
+      "post_hint": "rich:video",
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3ycjcp/shizuka_heavenly_persona_psychedelic_noise_rock/",
+      "locked": false,
+      "name": "t3_3ycjcp",
+      "created": 1451208141,
+      "url": "https://www.youtube.com/watch?v=q7Sn65UEjvM",
+      "author_flair_text": null,
+      "quarantine": false,
+      "title": "Shizuka - Heavenly Persona [Psychedelic Noise Rock] (1995)",
+      "created_utc": 1451179341,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 4
+    }
+  },
+  {
+    "kind": "t3",
+    "data": {
+      "domain": "joiedevivreband.bandcamp.com",
+      "banned_by": null,
+      "media_embed": {},
+      "subreddit": "listentothis",
+      "selftext_html": null,
+      "selftext": "",
+      "likes": null,
+      "suggested_sort": null,
+      "user_reports": [],
+      "secure_media": null,
+      "link_flair_text": "Rock",
+      "id": "3yaylq",
+      "from_kind": null,
+      "gilded": 0,
+      "archived": false,
+      "clicked": false,
+      "report_reasons": null,
+      "author": "starbuckzero",
+      "media": null,
+      "score": 12,
+      "approved_by": null,
+      "over_18": false,
+      "hidden": false,
+      "num_comments": 4,
+      "thumbnail": "default",
+      "subreddit_id": "t5_2qxzy",
+      "hide_score": false,
+      "edited": false,
+      "link_flair_css_class": "rock",
+      "author_flair_css_class": "lastfm",
+      "downs": 0,
+      "secure_media_embed": {},
+      "saved": false,
+      "removal_reason": null,
+      "stickied": false,
+      "from": null,
+      "is_self": false,
+      "from_id": null,
+      "permalink": "/r/listentothis/comments/3yaylq/joie_de_vivre_next_year_will_be_better_emo_2010/",
+      "locked": false,
+      "name": "t3_3yaylq",
+      "created": 1451180381,
+      "url": "https://joiedevivreband.bandcamp.com/track/next-year-will-be-better",
+      "author_flair_text": "lastfm",
+      "quarantine": false,
+      "title": "Joie De Vivre -- Next Year Will Be Better [Emo] (2010)",
+      "created_utc": 1451151581,
+      "distinguished": null,
+      "mod_reports": [],
+      "visited": false,
+      "num_reports": null,
+      "ups": 12
+    }
+  }
+]

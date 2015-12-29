@@ -15,11 +15,24 @@ Presentational component to render a grid list of youtube videos, given an array
 
 import React from 'react'
 import GridList from 'material-ui/lib/grid-list/grid-list'
-import GridVideoTile from './GridVideoTile'
+import TabPlayer from '../views/TabPlayer'
+import { take } from 'lodash'
+import { videoListsEqual } from '../redux/utils/helpers'
 
-export class GridvideoList extends React.Component {
+export class GridVideoList extends React.Component {
   static propTypes = {
     videoList: React.PropTypes.array
+  }
+
+  shouldComponentUpdate (nextProps, nextState) {
+    console.log('GridVideoList are videoListsEqual?', videoListsEqual(
+      nextProps.videoList,
+      this.props.videoList
+    ))
+    return !videoListsEqual(
+      nextProps.videoList,
+      this.props.videoList
+    )
   }
 
   render () {
@@ -27,17 +40,19 @@ export class GridvideoList extends React.Component {
       videoList
     } = this.props
 
-    const renderVideoTile = (arrayItem, idx) => {
-      let item = arrayItem.data
+    console.log('GridVideoList RENDER ++ videoList', videoList)
 
+    const renderVideoTile = (item, idx) => {
+      const data = item.data
       return (
-        <GridVideoTile
-          id={item.id}
-          key={item.id}
-          title={item.title}
-          author={item.author}
-          url={item.url}
-          media_embed={item.media_embed} />
+        <TabPlayer
+          id={data.id}
+          url={data.url}
+          title={data.title}
+          author={data.author}
+          media_embed={data.media_embed}
+          score={item.score}
+          key={data.id} />
       )
     }
 
@@ -48,11 +63,11 @@ export class GridvideoList extends React.Component {
         padding={3}
         >
         {
-          videoList.map(renderVideoTile)
+          take(videoList, 4).map(renderVideoTile)
         }
       </GridList>
     )
   }
 }
 
-export default GridvideoList
+export default GridVideoList

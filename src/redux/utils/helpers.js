@@ -6,4 +6,18 @@ export const addToArray = (array, elem) => {
   return [ ...array, elem ]
 }
 
-export default addToArray
+// video lists are equal if their ids are equal
+export const videoListsEqual = (firstArr, secondArr) => {
+  if (firstArr.length !== secondArr.length) {
+    return false
+  }
+
+  for (let i = 0; i < firstArr.length; i++) {
+    let item = firstArr[i]
+    if (item.data.id !== secondArr[i].data.id) {
+      return false
+    }
+  }
+
+  return true
+}

@@ -3,11 +3,13 @@ import { connect } from 'react-redux'
 import { bindActionCreators } from 'redux'
 import { actionCreators as tabActions } from '../redux/modules/tabs'
 import { actionCreators as dataActions } from '../redux/modules/data'
+import { getVideos } from '../redux/modules/data'
 import FILTERS from '../data/constants'
 import Tabs from 'material-ui/lib/tabs/tabs'
 import Tab from 'material-ui/lib/tabs/tab'
 import styles from './TabsContainer.scss'
-import TabGrid from './TabGrid'
+// import TabGrid from './TabGrid'
+import GridVideoList from '../components/GridVideoList'
 
 /**
 {
@@ -15,12 +17,11 @@ import TabGrid from './TabGrid'
     title: "tab title",
     value: "hot"
   },
-  videoList: [ ... ]
 }
 **/
 const mapStateToProps = (state) => ({
-  tabFilter: state.currentTab.value,
-  videoList: state.videoList
+  tabTitle: state.currentTab.title,
+  tabFilter: state.currentTab.value
 })
 
 // Combine tab and data action creators
@@ -38,23 +39,23 @@ export class TabsContainer extends React.Component {
     tabTitle: React.PropTypes.string.isRequired,
     tabFilter: React.PropTypes.string.isRequired,
     setCurrentTab: React.PropTypes.func.isRequired,
-    fetchVideos: React.PropTypes.func.isRequired
+    setActiveVideos: React.PropTypes.func.isRequired
   }
 
   componentDidMount () {
     // populate initial tab
-    // TODO - fi
+    // TODO - filter to actual initial tab rather than default filter
     this.updateTab(FILTERS.FILTER_DEFAULT)
   }
 
   updateTab (value) {
     const {
       setCurrentTab,
-      fetchVideos
+      setActiveVideos
     } = this.props
 
     setCurrentTab(value)
-    fetchVideos(value)
+    setActiveVideos(value)
   }
 
   render () {
@@ -68,24 +69,22 @@ export class TabsContainer extends React.Component {
           value={tabFilter}
           onChange={this.updateTab.bind(this)}
         >
-          <Tab label='HOT'
+          <Tab
+            label='HOT'
             value={FILTERS.FILTER_HOT}
-            selected >
-            <div>
+            selected>
               <h2 className={styles['headline']}>HOT</h2>
-              <p>
-                <TabGrid value={FILTERS.FILTER_HOT} />
-              </p>
-            </div>
+              <GridVideoList
+                videoList={getVideos(FILTERS.FILTER_HOT)}
+              />
           </Tab>
-          <Tab label='TOP'
+          <Tab
+            label='TOP'
             value={FILTERS.FILTER_TOP}>
-            <div>
               <h2 className={styles['headline']}>TOP</h2>
-              <p>
-                <TabGrid value={FILTERS.FILTER_TOP} />
-              </p>
-            </div>
+              <GridVideoList
+                videoList={getVideos(FILTERS.FILTER_TOP)}
+              />
           </Tab>
         </Tabs>
       </div>

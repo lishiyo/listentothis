@@ -10,7 +10,7 @@ import FILTERS from '../../data/constants'
 // ------------------------------------
 // Constants - Action Types
 // ------------------------------------
-export const DATA_FETCHED = 'DATA_FETCHED'
+export const SET_ACTIVE_VIDEOS = 'SET_ACTIVE_VIDEOS'
 
 // ------------------------------------
 // Action Creators - functions exposed as props
@@ -18,7 +18,7 @@ export const DATA_FETCHED = 'DATA_FETCHED'
 
 // Bound action creator that automatically dispatches
 // make AJAX call via snoocore here based on the filter
-export const fetchVideos = createAction(DATA_FETCHED, (filter) => {
+export const setActiveVideos = createAction(SET_ACTIVE_VIDEOS, (filter) => {
   switch (filter) {
     case FILTERS.FILTER_HOT:
       // get data, then dispatch
@@ -30,15 +30,27 @@ export const fetchVideos = createAction(DATA_FETCHED, (filter) => {
   }
 })
 
+export const getVideos = (filter) => {
+  switch (filter) {
+    case FILTERS.FILTER_HOT:
+      // get data, then dispatch
+      return mockDataHot
+    case FILTERS.FILTER_TOP:
+      return mockDataTop
+    default:
+      return []
+  }
+}
+
 export const actionCreators = {
-  fetchVideos
+  setActiveVideos
 }
 
 // ------------------------------------
 // Reducer - handles multiple action types
 // ------------------------------------
 export default handleActions({
-  DATA_FETCHED: (state, action) => {
+  SET_ACTIVE_VIDEOS: (state, action) => {
     return action.payload // []
   }
 }, [])

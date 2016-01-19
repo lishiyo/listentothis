@@ -12,6 +12,7 @@ import styles from './TabsContainer.scss'
 import GridVideoList from '../components/GridVideoList'
 
 /**
+state:
 {
   currentTab: {
     title: "tab title",
@@ -24,7 +25,7 @@ const mapStateToProps = (state) => ({
   tabFilter: state.currentTab.value
 })
 
-// Combine tab and data action creators
+// Combine tab and video data action creators
 const mapDispatchToProps = (dispatch) => {
   return bindActionCreators(
     Object.assign(
@@ -45,17 +46,17 @@ export class TabsContainer extends React.Component {
   componentDidMount () {
     // populate initial tab
     // TODO - filter to actual initial tab rather than default filter
-    this.updateTab(FILTERS.FILTER_DEFAULT)
+    this._updateTab(FILTERS.FILTER_DEFAULT)
   }
 
-  updateTab (value) {
+  _updateTab (filter) {
     const {
       setCurrentTab,
       setActiveVideos
     } = this.props
 
-    setCurrentTab(value)
-    setActiveVideos(value)
+    setCurrentTab(filter)
+    setActiveVideos(filter)
   }
 
   render () {
@@ -64,10 +65,10 @@ export class TabsContainer extends React.Component {
     } = this.props
 
     return (
-      <div className='container text-center'>
+      <div className='text-center container'>
         <Tabs
           value={tabFilter}
-          onChange={this.updateTab.bind(this)}
+          onChange={this._updateTab.bind(this)}
         >
           <Tab
             label='HOT'

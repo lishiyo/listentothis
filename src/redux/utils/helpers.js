@@ -1,9 +1,10 @@
+// add element to array only if it doesn't already exist
 export const addToArray = (array, elem) => {
   if (array.indexOf(elem) !== -1) {
     return array
   }
 
-  return [ ...array, elem ]
+  return [ ...array, elem ] // concat
 }
 
 // video lists are equal if their ids are equal

@@ -5,11 +5,13 @@ import { routeReducer } from 'redux-simple-router'
 import counter from './counter' // counter value
 import tabReducer from './tabs' // current tab value
 import videoReducer from './data' // current video list
+import playersReducer from './players'
 
 // Build global state (store.getState()) from all reducers
 export default combineReducers({
   counter: counter,
   router: routeReducer,
   currentTab: tabReducer,
-  videoList: videoReducer
+  videoList: videoReducer,
+  players: playersReducer
 })

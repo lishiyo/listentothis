@@ -25,22 +25,20 @@ export class GridVideoList extends React.Component {
   }
 
   shouldComponentUpdate (nextProps, nextState) {
-    console.log('GridVideoList are videoListsEqual?', videoListsEqual(
-      nextProps.videoList,
-      this.props.videoList
-    ))
-    return !videoListsEqual(
+    const videoListsDiff = videoListsEqual(
       nextProps.videoList,
       this.props.videoList
     )
+
+    console.log('shouldComponentUpdate - are videoListsEqual?', videoListsDiff)
+
+    return !videoListsDiff
   }
 
   render () {
     const {
       videoList
     } = this.props
-
-    console.log('GridVideoList RENDER ++ videoList', videoList)
 
     const renderVideoTile = (item, idx) => {
       const data = item.data
@@ -63,7 +61,7 @@ export class GridVideoList extends React.Component {
         padding={3}
         >
         {
-          take(videoList, 4).map(renderVideoTile)
+          take(videoList, 10).map(renderVideoTile)
         }
       </GridList>
     )

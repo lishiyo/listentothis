@@ -16,20 +16,6 @@ export const SET_ACTIVE_VIDEOS = 'SET_ACTIVE_VIDEOS'
 // Action Creators - functions exposed as props
 // ------------------------------------
 
-// Bound action creator that automatically dispatches
-// make AJAX call via snoocore here based on the filter
-export const setActiveVideos = createAction(SET_ACTIVE_VIDEOS, (filter) => {
-  switch (filter) {
-    case FILTERS.FILTER_HOT:
-      // get data, then dispatch
-      return mockDataHot
-    case FILTERS.FILTER_TOP:
-      return mockDataTop
-    default:
-      return []
-  }
-})
-
 export const getVideos = (filter) => {
   switch (filter) {
     case FILTERS.FILTER_HOT:
@@ -41,6 +27,10 @@ export const getVideos = (filter) => {
       return []
   }
 }
+
+// Bound action creator that automatically dispatches
+// make AJAX call via snoocore here based on the filter
+export const setActiveVideos = createAction(SET_ACTIVE_VIDEOS, getVideos)
 
 export const actionCreators = {
   setActiveVideos

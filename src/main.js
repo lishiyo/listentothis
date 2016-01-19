@@ -19,7 +19,8 @@ const initialStore = Object.assign({}, window.__INITIAL_STATE__, {
     title: 'init tab in main.js',
     value: 'init value in main.js'
   },
-  videoList: []
+  // array of raw video data from snoocore
+  videoList: [] // [ { kind: t3, data: { ... } }, ]
 })
 const store = configureStore(initialStore)
 

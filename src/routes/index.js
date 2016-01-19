@@ -16,6 +16,6 @@ export default (
   <Route path='/' component={CoreLayout}>
     <IndexRoute component={HomeView} />
     <Route path='/about' component={AboutView} />
-    <Route path='/test' component={TabsContainer} />
+    <Route path='/tabs' component={TabsContainer} />
   </Route>
 )

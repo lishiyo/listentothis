@@ -38,7 +38,7 @@ export class HomeView extends React.Component {
         <hr />
         <Link to='/about'>Go To About View</Link>
         {'   '}
-        <Link to='/test'>Go To TabsContainer View</Link>
+        <Link to='/tabs'>Go To TabsContainer View</Link>
       </div>
     )
   }

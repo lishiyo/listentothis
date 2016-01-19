@@ -15,7 +15,7 @@ import Header from './Header'
 function CoreLayout ({ children }) {
   return (
     <div className='page-container'>
-      <div className='view-container'>
+      <div className='container view-container'>
         <Header />
         {children}
       </div>

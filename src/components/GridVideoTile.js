@@ -5,7 +5,7 @@ props: {
   id: '3ybh3d',
   title: 'Hello',
   author: 'AdeleFan',
-  iframeData: <iframe width='350' height='250' ../>
+  iframeData: <iframe src='http://..' width='350' height='250' ../>
   iframeReadyCb: function
 }
 
@@ -24,7 +24,7 @@ export class GridVideoTile extends React.Component {
   }
 
   componentDidMount () {
-    // after iframe has been set inside GridVideoTile
+    // after iframe node has been rendered
     this.props.iframeReadyCb(this.refs.iframeRef)
   }
 
